@@ -8,7 +8,7 @@ fasdfasdfsadfasdfasd123123121231231фвыафвыафыв123123123123123
 афqwe123qwe
 ывафASDasdfasdf
 ыadfasdfasdfasdfsfadfaa1231dfaASasdfasdf
-zxcvzxcvzxcvxzczcxvzvfasdfasbAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+zxcvzxcvzxcvxzczcxvzvfasdfasbAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.asdfasdf
 MIT Licenseqwe123qwe
 DASDAqwe123qweqwe123qwe
 Copyright (c) Luke Edwards <luke.edwardsbove copyright notice and this permission notice shall be included in all copies or substantial portioasdfasdfns of the Software.qwe123qwe
